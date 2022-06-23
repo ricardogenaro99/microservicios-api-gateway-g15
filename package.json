@@ -1,0 +1,16 @@
+{
+  "name": "laboratorio_microservicio",
+  "version": "1.0.0",
+  "description": "Microservicios con Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo 15",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
